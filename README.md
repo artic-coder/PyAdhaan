@@ -2,11 +2,14 @@
 **Py**_Adhaan_ is Python **module** for [Al-Adhaan]("https://aladhan.com/") which is online adhaan web-application,specifically designed for Adhaan times only provides adhaan times from different **city** and **address** and can generate calendar data from city and address aswell in both **Gregorian** and **Hijri** format,Its a small module with no overhead and easy to use.
 
 ## Importing and using pyadhaan:
-` import pyadhaan as pyadh`  
-` timings = pyadh.prayer_day_city("istanbul","turkey","2","timings")`
-`print(timings)`
+` import pyadhaan as pyadh`</br>  
+` timings = pyadh.prayer_day_city("istanbul","turkey","2","timings")`</br>
+`print(timings)`</br>
 
-
+## Download PyAdhaan executable from **PIP**:</br>
+Command : `pip install PyAdhaan`</br>
+ [PyAdhaan project on PIP](https://pypi.org/project/PyAdhaan/)
+ 
 ## Features:
 Shows adhaan timing from different **countries and city**.</br>
 Generate **calendar** for adhaan times.</br>
