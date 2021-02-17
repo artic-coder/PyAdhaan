@@ -46,7 +46,3 @@ All the error and **exception handling** are done by module itself so you dont h
 
 VERSION INFO :
 PyAdhaan Version : V 1.0 Dated : 18/05/2019.</br>
-Written and maintained by HaseeB Mir (haseebmir.hm@gmail.com)</br>
-
-
-
